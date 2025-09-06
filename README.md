@@ -1,4 +1,4 @@
-# lab4-accessibleregistration-form
+
 
 # Lab 4 – Accessible Registration Form
 
@@ -44,8 +44,7 @@
 Here’s a sneak peek of the registration form UI:
 
 ![Form Preview](images1.png)  
-![Cards Preview](images2
-.png)  
+![Cards Preview](images2.png)  
 
 ## Author
 - Ndilly  
